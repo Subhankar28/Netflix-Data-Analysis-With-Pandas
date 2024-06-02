@@ -1,0 +1,12 @@
+This report presents an analysis of Netflix data, focusing on the content available on the platform.
+The analysis was performed using Python, with pandas for data manipulation and seaborn for graphical representation.
+The process involved data cleaning, filtering, and visualization to uncover insights about Netflix's content library.
+
+Analysis:-
+
+The analysis reveals that Netflix has a diverse content library, with a significant number of movies compared to TV shows.
+The platform has seen a steady increase in content acquisition over the years, with contributions from various countries, notably the United States.
+The genre distribution shows a wide range of categories, indicating Netflix's strategy to cater to diverse audience preferences.
+
+The data cleaning and filtering processes ensured accurate and meaningful insights, highlighting the importance of these steps in data analysis.
+Visualizations using seaborn effectively communicated the findings, making complex data more comprehensible.
